@@ -1,0 +1,27 @@
+{
+  "name": "inotebook-backend",
+  "version": "1.0.0",
+  "description": "Cloud Notebook",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mike",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.3",
+    "mongoose": "^8.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "inotebook"
+  },
+  "keywords": [
+    "notes",
+    "editor"
+  ]
+}
